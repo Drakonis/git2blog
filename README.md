@@ -25,3 +25,11 @@ Clone the following repository and run the script to produce a example blog
 ```
 https://github.com/Drakonis/git2blog-example
 ```
+
+### Using guix
+
+To enter a development environment run the following:
+
+```
+guix shell
+```
